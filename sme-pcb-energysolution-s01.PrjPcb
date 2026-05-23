@@ -228,7 +228,7 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-sme-pcb-en
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
@@ -244,7 +244,7 @@ DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Design Rule Check - 
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.DRR
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
@@ -256,7 +256,7 @@ DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\Project Ouputs\Gerber\PCB_s01.EXTREP
+DocumentPath=Project Ouputs\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
@@ -268,15 +268,15 @@ DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\Project Ouputs\DiffReport\PCB_s01.html
+DocumentPath=Project Ouputs\DiffReport\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\Project Ouputs\DRC\PCB_s01.html
+DocumentPath=Project Ouputs\DRC\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\Project Ouputs\FootprintComparison\PCB_s01.html
+DocumentPath=Project Ouputs\FootprintComparison\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument16]
@@ -284,7 +284,7 @@ DocumentPath=Project Outputs for Free Documents\DRC\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.LDP
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
@@ -292,7 +292,7 @@ DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\Project Ouputs\PCB 3D Print\PCB_s01.png
+DocumentPath=Project Ouputs\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
 [GeneratedDocument20]
@@ -300,7 +300,7 @@ DocumentPath=Project Outputs for Free Documents\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\Project Ouputs\Gerber\PCB_s01.REP
+DocumentPath=Project Ouputs\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
@@ -308,7 +308,7 @@ DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\Project Ouputs\ExportSTEP\PCB_s01.step
+DocumentPath=Project Ouputs\ExportSTEP\PCB_s01.step
 DItemRevisionGUID=
 
 [GeneratedDocument24]
@@ -316,7 +316,7 @@ DocumentPath=Project Outputs for Free Documents\ExportSTEP\PCB_s01.step
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.TXT
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
@@ -332,7 +332,7 @@ DocumentPath=Project Ouputs\PCBWay\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.c
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=.\Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
+DocumentPath=Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
 DItemRevisionGUID=
 
 [GeneratedDocument30]
@@ -340,15 +340,15 @@ DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB_s0
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=.\Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=.\Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=.\Project Ouputs\ERC\sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\ERC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [Configuration1]
