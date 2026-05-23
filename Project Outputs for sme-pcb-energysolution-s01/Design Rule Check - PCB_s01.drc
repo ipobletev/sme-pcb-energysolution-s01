@@ -1,10 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\GIT\sme\PCB\sme-pcb-energysolution-s01\PCB_s01.PcbDoc
 Date     : 5/23/2026
-Time     : 7:22:25 PM
-
-WARNING: 1 Net Tie failed verification
-   SMT Small Component R20-RC0603FR-100RL (164.681mm,61.976mm) on Top Layer, SMT Small Component R20-RC0603FR-100RL (164.681mm,61.976mm) on Top Layer, has isolated copper
+Time     : 7:37:24 PM
 
 Processing Rule : Clearance Constraint (Gap=0.13mm) (All),(All)
 Rule Violations :0
