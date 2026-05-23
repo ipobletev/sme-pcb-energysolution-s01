@@ -202,8 +202,153 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFJCEYNU
 
+[Document10]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Ouputs\BOM\Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Ouputs\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Design Rule Check - PCB_s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Project Ouputs\Gerber\PCB_s01.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\Project Ouputs\DiffReport\PCB_s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Project Ouputs\DRC\PCB_s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\Project Ouputs\FootprintComparison\PCB_s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\DRC\PCB_s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\Project Ouputs\PCB 3D Print\PCB_s01.png
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\PCB 3D Print\PCB_s01.png
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\Project Ouputs\Gerber\PCB_s01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\Project Ouputs\ExportSTEP\PCB_s01.step
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\PCB_s01.step
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Ouputs\PCBWay\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB_s01.txt
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\Project Ouputs\ERC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1316,4 +1461,7 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[Parameter Manager Custom Column Order]
+<Schematic>=Manufacturer,"Manufacturer Part Number",Package,Type,"Arrow Part Number","Arrow Price/Stock","Body Material",Capacitance,"Case Code (Imperial)","Case Code (Metric)",Case/Package,Category,Color,ComponentLink10Description,ComponentLink10URL,ComponentLink11Description,ComponentLink11URL,ComponentLink12Description,ComponentLink12URL,ComponentLink13Description,ComponentLink13URL,ComponentLink1Description,ComponentLink1URL,ComponentLink2Description,ComponentLink2URL,ComponentLink3Description,ComponentLink3URL,ComponentLink4Description,ComponentLink4URL,ComponentLink5Description,ComponentLink5URL,ComponentLink6Description,ComponentLink6URL,ComponentLink7Description,ComponentLink7URL,ComponentLink8Description,ComponentLink8URL,ComponentLink9Description,ComponentLink9URL,"Contact Plating","Current Rating","Datasheet Link",Depth,Dielectric,"Dielectric Material","Dissipation Factor","ESR (Equivalent Series Resistance)",Features,"Flammability Rating","Fuse Current","Fuse value",Geometry.Height,Height,"Height - Seated (Max)","Illumination Type","Lead Free","Lead Pitch","Leakage Current",Length,"Life (Hours)",Manufacturer_Name,Manufacturer_Part_Number,Material,"Max Operating Temperature","Min Operating Temperature",Mount,"Mouser Part Number","Stock 1","Mouser Price/Stock","Number of Circuits","Number of Pins","Number of Poles","Package Quantity",Packaging,Polarity,"Pricing 1","Pricing 2","Radiation Hardening","REACH SVHC",Resistance,"Ripple Current",RoHS,"Stock 2","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2",Termination,Thickness,Tolerance,Voltage,"Voltage Rating","Voltage Rating (AC)","Voltage Rating (DC)",Width
 

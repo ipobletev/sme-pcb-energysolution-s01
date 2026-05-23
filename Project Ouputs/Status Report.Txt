@@ -1,0 +1,10 @@
+Output: Footprint Comparison Report
+Type  : FootprintComparison
+From  : PCB Document [PCB_s01.PcbDoc]
+   Generated File[PCB_s01.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:44:42 PM On 5/22/2026
