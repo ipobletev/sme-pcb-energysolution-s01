@@ -6,6 +6,8 @@ This repository contains the energy PCB design for the SME project. The project 
 
 This board is intended to work with a single-cell 3.7 V lithium battery, charge it from a 5 V supply, and provide regulated 5 V and 3.3 V outputs up to 3 A.
 
+![PCB 3D preview](Project%20Ouputs/PCB%203D%20Print/PCB_s01.png)
+
 ## What this repository is useful for
 
 This repository is useful for:
