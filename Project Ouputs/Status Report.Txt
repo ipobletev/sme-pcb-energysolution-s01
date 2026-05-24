@@ -1,10 +1,22 @@
-Output: Footprint Comparison Report
-Type  : FootprintComparison
-From  : PCB Document [PCB_s01.PcbDoc]
-   Generated File[PCB_s01.html]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [PCB_s01.PcbDoc]
+   Generated File[PCB_s01_Copper_Signal_Top.gbr]
+   Generated File[PCB_s01_Copper_Signal_Bot.gbr]
+   Generated File[PCB_s01_Legend_Top.gbr]
+   Generated File[PCB_s01_Legend_Bot.gbr]
+   Generated File[PCB_s01_Soldermask_Top.gbr]
+   Generated File[PCB_s01_Soldermask_Bot.gbr]
+   Generated File[PCB_s01_Paste_Top.gbr]
+   Generated File[PCB_s01_Paste_Bot.gbr]
+   Generated File[PCB_s01_Profile.gbr]
+   Generated File[PCB_s01_NPTH_Drill.gbr]
+   Generated File[PCB_s01_PTH_Drill.gbr]
+   Generated File[PCB_s01.EXTREP]
+   Generated File[PCB_s01.REP]
 
 
-Files Generated   : 1
+Files Generated   : 13
 Documents Printed : 0
 
-Finished Output Generation At 3:14:18 AM On 5/24/2026
+Finished Output Generation At 12:40:23 PM On 5/24/2026
