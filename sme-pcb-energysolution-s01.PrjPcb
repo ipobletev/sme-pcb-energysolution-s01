@@ -228,126 +228,202 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-sme-pcb-en
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
+DocumentPath=.\Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Ouputs\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DocumentPath=Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
+DocumentPath=Project Ouputs\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Design Rule Check - PCB_s01.html
+DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Ouputs\NC Drill\PCB_s01.DRR
+DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Design Rule Check - PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.DRR
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.DRR
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Ouputs\Gerber\PCB_s01.EXTREP
+DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.EXTREP
+DocumentPath=.\Project Ouputs\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Ouputs\DiffReport\PCB_s01.html
+DocumentPath=Project Ouputs\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Ouputs\DRC\PCB_s01.html
+DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Ouputs\FootprintComparison\PCB_s01.html
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\DRC\PCB_s01.html
+DocumentPath=.\Project Ouputs\DiffReport\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Ouputs\NC Drill\PCB_s01.LDP
+DocumentPath=.\Project Ouputs\DRC\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.LDP
+DocumentPath=.\Project Ouputs\FootprintComparison\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Ouputs\PCB 3D Print\PCB_s01.png
+DocumentPath=Project Ouputs\DiffReport\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\PCB 3D Print\PCB_s01.png
+DocumentPath=Project Ouputs\DRC\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Ouputs\Gerber\PCB_s01.REP
+DocumentPath=Project Ouputs\FootprintComparison\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.REP
+DocumentPath=Project Outputs for Free Documents\DRC\PCB_s01.html
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Ouputs\ExportSTEP\PCB_s01.step
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\ExportSTEP\PCB_s01.step
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Ouputs\NC Drill\PCB_s01.TXT
+DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.TXT
+DocumentPath=.\Project Ouputs\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Ouputs\PCBWay\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
+DocumentPath=Project Ouputs\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
+DocumentPath=Project Outputs for Free Documents\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB_s01.txt
+DocumentPath=.\Project Ouputs\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
+DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\Project Ouputs\ExportSTEP\PCB_s01.step
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Ouputs\ExportSTEP\PCB_s01.step
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\PCB_s01.step
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Ouputs\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=.\Project Ouputs\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Ouputs\PCBWay\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\Project Ouputs\Pick Place\Pick Place for PCB_s01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Ouputs\PCBWay\Pick Place\Pick Place for PCB_s01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB_s01.txt
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=.\Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\Project Ouputs\ERC\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
+DItemRevisionGUID=
+
+[GeneratedDocument52]
 DocumentPath=Project Ouputs\ERC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
@@ -1316,8 +1392,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=SME.IntLib
-ComponentDesignItemID0=FUSE - Littelfuse
-ComponentSymbolReference0=FUSE - Littelfuse
+ComponentDesignItemID0=S-8261AAXMD-G2XT2U
+ComponentSymbolReference0=S-8261AAXMD-G2XT2U
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1333,116 +1409,18 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Body Material
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Category
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Color
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Component Kind
-ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
-ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
-ParameterUpdate6=1
-ParameterName7=ComponentLink2Description
-ParameterUpdate7=1
-ParameterName8=ComponentLink2URL
-ParameterUpdate8=1
-ParameterName9=ComponentLink3Description
-ParameterUpdate9=1
-ParameterName10=ComponentLink3URL
-ParameterUpdate10=1
-ParameterName11=ComponentLink4Description
-ParameterUpdate11=1
-ParameterName12=ComponentLink4URL
-ParameterUpdate12=1
-ParameterName13=ComponentLink5Description
-ParameterUpdate13=1
-ParameterName14=ComponentLink5URL
-ParameterUpdate14=1
-ParameterName15=ComponentLink6Description
-ParameterUpdate15=1
-ParameterName16=ComponentLink6URL
-ParameterUpdate16=1
-ParameterName17=ComponentLink7Description
-ParameterUpdate17=1
-ParameterName18=ComponentLink7URL
-ParameterUpdate18=1
-ParameterName19=ComponentLink8Description
-ParameterUpdate19=1
-ParameterName20=ComponentLink8URL
-ParameterUpdate20=1
-ParameterName21=Current Rating
-ParameterUpdate21=1
-ParameterName22=Depth
-ParameterUpdate22=1
-ParameterName23=Description
-ParameterUpdate23=1
-ParameterName24=Flammability Rating
-ParameterUpdate24=1
-ParameterName25=Fuse Current
-ParameterUpdate25=1
-ParameterName26=Illumination Type
-ParameterUpdate26=1
-ParameterName27=Lead Free
-ParameterUpdate27=1
-ParameterName28=Length
-ParameterUpdate28=1
-ParameterName29=Library Reference
-ParameterUpdate29=1
-ParameterName30=Manufacturer
-ParameterUpdate30=1
-ParameterName31=Manufacturer Part Number
-ParameterUpdate31=1
-ParameterName32=Material
-ParameterUpdate32=1
-ParameterName33=Max Operating Temperature
-ParameterUpdate33=1
-ParameterName34=Min Operating Temperature
-ParameterUpdate34=1
-ParameterName35=Mount
-ParameterUpdate35=1
-ParameterName36=Number of Circuits
-ParameterUpdate36=1
-ParameterName37=Number of Pins
-ParameterUpdate37=1
-ParameterName38=Number of Poles
-ParameterUpdate38=1
-ParameterName39=Package Quantity
-ParameterUpdate39=1
-ParameterName40=Packaging
-ParameterUpdate40=1
-ParameterName41=Pricing 1
-ParameterUpdate41=1
-ParameterName42=REACH SVHC
-ParameterUpdate42=1
-ParameterName43=RoHS
-ParameterUpdate43=1
-ParameterName44=Stock 1
-ParameterUpdate44=1
-ParameterName45=Supplier 1
-ParameterUpdate45=1
-ParameterName46=Supplier Part Number 1
-ParameterUpdate46=1
-ParameterName47=Termination
-ParameterUpdate47=1
-ParameterName48=Voltage
-ParameterUpdate48=1
-ParameterName49=Voltage Rating
-ParameterUpdate49=1
-ParameterName50=Voltage Rating (AC)
-ParameterUpdate50=1
-ParameterName51=Voltage Rating (DC)
-ParameterUpdate51=1
-ParameterName52=Width
-ParameterUpdate52=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=Fuse 22.7mm - 2 Hole
+ModelName0=SOT95P275X135-6N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
