@@ -219,6 +219,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=sme-pcb-energysolution-s01.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Ouputs\BOM\Bill of Materials-sme-pcb-energysolution-s01.xlsx
 DItemRevisionGUID=
@@ -228,378 +245,322 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-sme-pcb-en
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Ouputs\BOM\BOM Checks Report-sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Ouputs\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-sme-pcb-energysolution-s01.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Design Rule Check - PCB_s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Ouputs\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\NC Drill\PCB_s01.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Ouputs\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Gerber\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=.\Project Ouputs\DiffReport\PCB_s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=.\Project Ouputs\DRC\PCB_s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=.\Project Ouputs\FootprintComparison\PCB_s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument18]
 DocumentPath=Project Ouputs\DiffReport\PCB_s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument19]
 DocumentPath=Project Ouputs\DRC\PCB_s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument20]
 DocumentPath=Project Ouputs\FootprintComparison\PCB_s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Free Documents\DRC\PCB_s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument22]
 DocumentPath=Project Ouputs\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument23]
 DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\NC Drill\PCB_s01.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=.\Project Ouputs\PCB 3D Print\PCB_s01.png
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument26]
 DocumentPath=Project Ouputs\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Free Documents\PCB 3D Print\PCB_s01.png
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01.REP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument28]
 DocumentPath=Project Ouputs\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument29]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
 DocumentPath=Project Ouputs\PCBWay\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument31]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Free Documents\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\Gerber\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01.REP
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=.\Project Ouputs\ExportSTEP\PCB_s01.step
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument35]
 DocumentPath=Project Ouputs\ExportSTEP\PCB_s01.step
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Free Documents\ExportSTEP\PCB_s01.step
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=.\Project Ouputs\NC Drill\PCB_s01.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument37]
 DocumentPath=Project Ouputs\NC Drill\PCB_s01.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument38]
 DocumentPath=Project Ouputs\PCBWay\NC Drill\PCB_s01.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_s01.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\NC Drill\PCB_s01.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument50]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Copper_Signal_Bot.gbr
+[GeneratedDocument41]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument42]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument53]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Copper_Signal_Top.gbr
+[GeneratedDocument44]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument45]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument56]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Legend_Bot.gbr
+[GeneratedDocument47]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument48]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument59]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Legend_Top.gbr
+[GeneratedDocument50]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument51]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_NPTH_Drill.gbr
+[GeneratedDocument53]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument54]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Paste_Bot.gbr
+[GeneratedDocument56]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument57]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Paste_Top.gbr
+[GeneratedDocument59]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument60]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument71]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Profile.gbr
+[GeneratedDocument62]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument63]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument74]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_PTH_Drill.gbr
+[GeneratedDocument65]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument66]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument77]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Soldermask_Bot.gbr
+[GeneratedDocument68]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument69]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument80]
-DocumentPath=.\Project Ouputs\GerberX2\PCB_s01_Soldermask_Top.gbr
+[GeneratedDocument71]
+DocumentPath=Project Ouputs\GerberX2\PCB_s01_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument72]
 DocumentPath=Project Ouputs\PCBWay\GerberX2\PCB_s01_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument73]
 DocumentPath=Project Outputs for sme-pcb-energysolution-s01\GerberX2\PCB_s01_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument83]
-DocumentPath=.\Project Ouputs\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
-DItemRevisionGUID=
-
-[GeneratedDocument84]
+[GeneratedDocument74]
 DocumentPath=Project Ouputs\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument75]
 DocumentPath=Project Ouputs\PCBWay\BOM\PCBWay - BOM-sme-pcb-energysolution-s01.csv
 DItemRevisionGUID=
 
-[GeneratedDocument86]
-DocumentPath=.\Project Ouputs\Pick Place\Pick Place for PCB_s01.csv
-DItemRevisionGUID=
-
-[GeneratedDocument87]
+[GeneratedDocument76]
 DocumentPath=Project Ouputs\PCBWay\Pick Place\Pick Place for PCB_s01.csv
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument77]
 DocumentPath=Project Ouputs\Pick Place\Pick Place for PCB_s01.csv
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument78]
 DocumentPath=Project Ouputs\Pick Place\Pick Place for PCB_s01.txt
 DItemRevisionGUID=
 
-[GeneratedDocument90]
+[GeneratedDocument79]
 DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB_s01.txt
 DItemRevisionGUID=
 
-[GeneratedDocument91]
-DocumentPath=.\Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument92]
-DocumentPath=.\Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument93]
-DocumentPath=.\Project Ouputs\ERC\sme-pcb-energysolution-s01.html
-DItemRevisionGUID=
-
-[GeneratedDocument94]
+[GeneratedDocument80]
 DocumentPath=Project Ouputs\ComponentState\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument95]
+[GeneratedDocument81]
 DocumentPath=Project Ouputs\ECCC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
-[GeneratedDocument96]
+[GeneratedDocument82]
 DocumentPath=Project Ouputs\ERC\sme-pcb-energysolution-s01.html
 DItemRevisionGUID=
 
